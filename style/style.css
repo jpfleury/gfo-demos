@@ -1,0 +1,83 @@
+div#page {
+	width: 90%;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#ie {
+	font-weight: bold;
+	background-color: #f2f2f2;
+	padding: 5px;
+}
+
+h1 img {
+	vertical-align: middle;
+}
+
+ul.images, ul.images li {
+	list-style-type: none;
+}
+
+ul.images {
+	display: -webkit-flex;
+	-webkit-justify-content: space-between;
+	-webkit-flex-wrap: wrap;
+	display: flex;
+	justify-content: space-between;
+	flex-wrap: wrap;
+	padding: 0;
+	text-align: center;
+}
+
+ul.images > li {
+	width: 48%; margin: 10px 0;
+}
+
+figure {
+	margin: 0;
+	padding: 10px;
+	background-color: #fcfcfc;
+	border: 1px solid #e0e0e0;
+	border-radius: 2px;
+}
+
+figcaption {
+	margin-top: 5px;
+	padding: 5px 5px 2px 5px;
+	background-color: #f5f5f5;
+	border: 1px dotted #e0e0e0;
+}
+
+figcaption h2 {
+	margin-top: 0px;
+	margin-bottom: 5px;
+	font-size: 1.1em;
+}
+
+figure p {
+	margin: 0;
+}
+
+p.image img {
+	width: auto;
+	height: auto;
+	max-width: 100%;
+}
+
+p.original-image {
+	text-align: right;
+}
+
+p.original-image a {
+	color: inherit;
+}
+
+#footer {
+	border-top: 1px solid #e0e0e0;
+	text-align: center;
+	padding-top: 16px;
+}
+
+#footer .top {
+	color: inherit;
+}
