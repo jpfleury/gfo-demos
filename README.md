@@ -1,3 +1,5 @@
+[![GitHub Pages deployed](https://img.shields.io/badge/GitHub_Pages-deployed-2eba4e?logo=github&labelColor=32383f)](http://jpfleury.github.io/gfo-demos/)
+
 # gmic-filters-overview demos
 
 [G'MIC](https://gmic.eu) is a free and open-source image processing framework that comes with hundreds of filters.
